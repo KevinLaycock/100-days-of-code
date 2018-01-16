@@ -16,9 +16,19 @@ ___________________________________________________
 **Thoughts:** Get this done earlier in the day
 
 ____________________________________________________
-### Day : Jan 10, 2018
+### Day 3: Jan 10, 2018
 ##### 
 
 **Today's Progress**: Very little progress.  Added some links to profile page project.   Read up on how to make a simple website from Node.js
 
 **Thoughts:** Some of these tutorials seem like you are learning how to box by learnign combinations before learning the actual punches.
+
+
+Missed few days due to family comittments.
+____________________________________________________
+### Day 4: Jan 10, 2018
+##### 
+
+**Today's Progress**: Started to try simole website from node.js tutorial.   Reading over a project utilizing this framework and using jade/pug.
+
+**Thoughts:** Easy to miss a few days...
