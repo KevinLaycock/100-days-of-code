@@ -26,7 +26,7 @@ ____________________________________________________
 
 Missed few days due to family comittments.
 ____________________________________________________
-### Day 4: Jan 10, 2018
+### Day 4: Jan 16, 2018
 ##### 
 
 **Today's Progress**: Started to try simole website from node.js tutorial.   Reading over a project utilizing this framework and using jade/pug.
