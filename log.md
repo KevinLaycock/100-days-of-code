@@ -32,3 +32,11 @@ ____________________________________________________
 **Today's Progress**: Started to try simole website from node.js tutorial.   Reading over a project utilizing this framework and using jade/pug.
 
 **Thoughts:** Easy to miss a few days...
+
+____________________________________________________
+### Day 5: Jan 17, 2018
+##### 
+
+**Today's Progress**: Setting up a node server using node and jade.   Jade is giving me troubles
+
+**Thoughts:** 
