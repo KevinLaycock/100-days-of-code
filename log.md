@@ -40,3 +40,11 @@ ____________________________________________________
 **Today's Progress**: Setting up a node server using node and jade.   Jade is giving me troubles
 
 **Thoughts:** 
+
+____________________________________________________
+### Day 6: Jan 17, 2018
+##### 
+
+**Today's Progress**: Filled out a few jade templates and got them working with the base template.  
+
+**Thoughts:** Need to figure out how to properly comment in jade
