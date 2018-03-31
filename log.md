@@ -48,3 +48,11 @@ ____________________________________________________
 **Today's Progress**: Filled out a few jade templates and got them working with the base template.  
 
 **Thoughts:** Need to figure out how to properly comment in jade
+
+____________________________________________________
+### Day 8: Mar 29, 2018
+##### 
+
+**Today's Progress**: Got a drop down menu working with CSS and did so using SASS.  NOw I need to do it in JS.  Could not get nodemon to work...  
+
+**Thoughts:** Koala works great for autocompiling SASS.  
