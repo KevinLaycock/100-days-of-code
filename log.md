@@ -56,3 +56,11 @@ ____________________________________________________
 **Today's Progress**: Got a drop down menu working with CSS and did so using SASS.  NOw I need to do it in JS.  Could not get nodemon to work...  
 
 **Thoughts:** Koala works great for autocompiling SASS.  
+
+____________________________________________________
+### Day 19: Apr 5, 2018
+##### 
+
+**Today's Progress**: Ignoring nodemon for the moment.   50% there on  the js drop down.   Started watching Harvard's CS50 class.   Looks like a good foundation.
+
+**Thoughts:** Great article on going from no coding experienc to full time in 9 months: https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847     Takeawy from this: get organized.  
